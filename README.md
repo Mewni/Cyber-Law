@@ -1,5 +1,5 @@
-# Cyberspace-and-Cyberwarfare
-Collection of resources for Cyberwarfare
+# Cyberwarfare
+This is a Collection of research articles, newspaper articles, books etc. to get a clear understanding about Cyberwarfare
 
 To contribute to this repo please follow the instructions below
  * Fork this repo 
