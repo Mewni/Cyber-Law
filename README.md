@@ -1,8 +1,9 @@
-# Cyberwarfare
-This is a Collection of research articles, newspaper articles, books etc. to get a clear understanding about Cyberwarfare
+# Cyber Law
+This is a Collection of research articles, newspaper articles, books etc. to get a clear understanding about Cyberlaw.
 
 To contribute to this repo please follow the instructions below
  * Fork this repo 
+
 
 ## Table of contents
 ##### Research gate articles
@@ -12,4 +13,7 @@ To contribute to this repo please follow the instructions below
 
 ##### Wikileaks
  * Inside Cyber Warfare - WikiLeaks - https://wikileaks.org/sony/docs/05/docs/eBooks/Inside_Cyber_Warfare.pdf
+
+##### News Articles
+* U.S. Supreme Court allows the FBI to Hack any Computer in the World - https://thehackernews.com/2016/04/fbi-hacking-power.html
  
